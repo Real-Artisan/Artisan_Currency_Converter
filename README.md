@@ -1,4 +1,6 @@
-# ArtisanCurrencyConverter
+# Artisan Currency Converter
+
+![localhost_4200_(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/82245725/207738201-5fbf37ae-0e47-44b2-93cb-e22a92fd59e1.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
